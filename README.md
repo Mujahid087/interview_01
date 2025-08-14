@@ -127,8 +127,7 @@ The data processing workflow includes:
 
 ## 📹 Demo
 
-🎥 **Live Demo**: [Dashboard Link](your-deployed-dashboard-url)
-🎬 **Video Walkthrough**: *(Link will be added after recording)*
+🎬 **Video Walkthrough**: *(https://www.loom.com/share/6d65ecf5f62e4cee922439c42b0e5f18?sid=a6423baf-eb99-48ae-8b60-2b0ee14307d0)*
 
 ## 💡 Key Investor Insights
 
