@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run the dashboard
 ```bash
-streamlit run src/dashboard.py
+streamlit run main.py
 ```
 
 The dashboard will be available at `http://localhost:8501`
@@ -119,11 +119,6 @@ The data processing workflow includes:
 - [ ] Mobile-responsive design improvements
 - [ ] Advanced statistical insights
 
-### Phase 3 (Future)
-- [ ] AI-powered forecasting of registrations
-- [ ] Comparative analysis between manufacturers
-- [ ] Real-time data integration
-- [ ] Advanced analytics with ML insights
 
 ## 📹 Demo
 
